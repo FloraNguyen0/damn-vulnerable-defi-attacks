@@ -5,5 +5,9 @@ contracts/attacker-contracts/*.sol
 cache
 .openzeppelin
 .vscode
+.gitignore
+test/.DS_Store
+contracts/.DS_Store
+.DS_Store
 artifacts
 cache
